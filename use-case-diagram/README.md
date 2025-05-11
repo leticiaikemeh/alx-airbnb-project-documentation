@@ -1,1 +1,1 @@
-![Use case Diagram: Airbnb clone](image/airbnb_usecase.png)
+![Use case Diagram: Airbnb clone](images/airbnb_usecase.png)
